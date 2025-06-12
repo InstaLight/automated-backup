@@ -1,0 +1,10 @@
+{
+  "BackupItems": [
+    "C:\\Users\\Administrator\\Documents",
+    "C:\\Users\\Administrator\\Desktop",
+    "C:\\Windows\\System32\\inetsrv\\config",
+    "C:\\Windows\\System32\\dhcp"
+  ],
+  "BackupDestination": "C:\\Backups",
+  "LogFile": "C:\\Backups\\backup-log.txt"
+}
