@@ -34,6 +34,7 @@ The script reads from `config/config.json`:
   "BackupDestination": "C:\\Backups",
   "LogFile": "C:\\Backups\\backup-log.txt"
 }
+```
 ---
 
 ## 🚀 How to Use
